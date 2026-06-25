@@ -8,7 +8,7 @@ Demostrar las competencias adquiridas en la administración de recursos lógicos
 ## 🎥 Video Explicativo de la Cátedra
 A continuación se presenta el enlace al video de defensa técnica (duración entre 10 y 15 minutos), donde se detalla el marco teórico, la configuración del entorno y la ejecución del código en vivo demostrando autoría:
 
-👉 [**VER VIDEO EXPLICATIVO AQUÍ**] 🎬
+👉 [**VER VIDEO EXPLICATIVO AQUÍ**] https://youtu.be/mPp77hPnAcw🎬
 
 ## 📁 Archivos Incluidos
 * `promedio.py`: Código fuente de la aplicación interactiva que calcula el promedio de notas.
